@@ -1,0 +1,199 @@
+body{
+    background-color: #e6fffa;
+}
+.Navbar 
+{
+    overflow:hidden;
+    background-color:#e6e6e6;
+    width:80%;
+    margin:auto;
+    margin-Top:10px;
+    margin-bottom:none;
+   
+}
+.userPic
+{
+   float:right;
+   border:1px solid #e6e6e6;
+   display:block;
+   height:50px;
+   width:50px;
+  
+}
+/*.iconStyle{
+    color:grey;
+    float:left;
+}*/
+.pStyle{
+display:inline-block;
+float:left;
+color:blue;
+margin-top:15px;
+margin-left:10px;
+}
+hr{
+    width:98%;
+}
+.arrow{
+display:inline-block;
+float:right;
+color:black;
+margin-top:15px;
+
+}
+.Textbar{
+overflow:hidden;
+background-color:white;
+width:80%;
+margin:auto;
+margin-top:none;
+margin-bottom:10px;
+padding-left: 10px;
+ padding-right: 10px;
+}
+.userPicTextarea{
+display:inline;
+float:left;
+border:1px solid #black;
+height:50px;
+width:50px;
+}
+.Write{
+float:left;
+width:90%;
+border:none;
+border-radius: 5px;
+padding:10px;
+}
+.Detail{
+overflow:hidden;
+background-color:white;
+width:80%;
+margin:auto;
+margin-top:10px;
+padding-left: 10px;
+ padding-right: 10px;
+}
+.templatePic{
+display:inline;
+float:left;
+border:1px solid #black;
+height:70px;
+width:70px;
+}
+.Wallpaper{
+overflow:hidden;
+background-color:white;
+margin:auto;
+width:80%;
+
+}
+.WallpaperPic{
+
+display:block;
+height:500px;
+width:100%;
+margin:auto;
+ padding-left: 10px;
+ padding-right: 10px;
+}
+.Counter{
+overflow:hidden;
+background-color:white;
+width:80%;
+margin:auto;
+
+}
+.CounterPic{
+float:right;
+margin-right: 10px;
+display:block;
+height:50px;
+width:50px;
+}
+.Emoji{
+overflow:hidden;
+background-color:#e6e6e6;
+width:80%;
+margin:auto;
+
+}
+.Icons1{
+margin-left:0px;
+margin-right:0px;
+display:inline-block;
+float:left;
+margin-top: 10px;
+
+}
+.Icons2{
+    margin-left:0px;
+    display:inline-block;
+    float:left;
+    margin-top: 10px;
+    margin-left: -22px;
+}
+.Icons3{
+    margin-left:0px;
+    display:inline-block;
+    float:left;
+    margin-top: 10px;
+    margin-left: -23px;
+}
+.userpicture{
+display:inline;
+float:left;
+border:1px solid #black;
+height:50px;
+width:50px;
+margin-right: 10px;
+}
+.Down{
+    background-color:#e6e6e6;
+    overflow:hidden;
+    width:80%;
+margin:auto;
+
+padding-bottom: 20px;
+}
+.DownNav{
+overflow:hidden;
+background-color:#e6e6e6;
+width:99%;
+margin:auto;
+}
+.WriteComment{
+    margin-top:none;
+}
+.writeSomething{
+float:left;
+width:95%;
+margin-top:5px;
+border-radius: 5px;
+padding:10px;
+border: 1px solid #e6e6e6;
+}
+.icons_down{
+display:inline-block;
+margin-top:10px;
+margin-left:-70px;
+}
+.icons_down2{
+display:inline-block;
+margin-top:10px;
+margin-left:-20px;
+}
+.downIcon{
+ 
+    display:inline-block;
+    float:left;
+    margin-top: 15px;
+    margin-left: -70px;
+}
+.downIcon2{
+ 
+    display:inline-block;
+    float:left;
+    margin-top: 15px;
+    margin-left: -40px;
+}
